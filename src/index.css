@@ -1,0 +1,19 @@
+body {
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  /* position: relative; */
+  /* font-family: "Darker Grotesque", sans-serif; */
+  font-family: 'Darker Grotesque', 'Montserrat', 'Plus Jakarta Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 400;
+  color: rgba(2, 2, 2, 1);
+  /* -webkit-text-size-adjust: 100%; */
+  /* margin: 0; */
+  /* overflow: hidden; */
+  /* padding: 0; */
+  /* touch-action: ''; */
+  /* -ms-touch-action: ''; */
+  /* -webkit-text-size-adjust: 100%; */
+}

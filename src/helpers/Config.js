@@ -1,0 +1,1 @@
+export let PHONENUMBER = 'tel:+380676766915';

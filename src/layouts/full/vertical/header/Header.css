@@ -1,0 +1,10 @@
+.header__create-popover {
+    
+}
+
+.header__create-popover .MuiPaper-root {
+    top: 53px !important;
+    /* left: 322px !important; */
+    left: auto !important;
+    right: 80% !important;
+}
